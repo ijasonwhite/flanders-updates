@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.4</title>
+      <pubDate>Sun, 26 Jul 2026 23:37:08 +0100</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.17.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **Links to getflanders.com in the app** — Flanders ▸ Flanders Website, and a
+  Help menu with Website / Features / What's New.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.4/Flanders-0.17.4.zip" sparkle:edSignature="DAfajjCKiXV6rysu7opXA6aPxHLpI6gWNsth0J9QwbyIwktwJ8hAlFMlr77Uf4SItdvLYyadIvnl2BePtWLABQ==" length="37033872" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.3</title>
       <pubDate>Sun, 26 Jul 2026 22:43:14 +0100</pubDate>
       <sparkle:version>34</sparkle:version>
