@@ -4,5 +4,25 @@
     <title>Flanders</title>
     <language>en</language>
     <!-- ITEMS -->
+    <item>
+      <title>Flanders 0.17.0</title>
+      <pubDate>Sun, 26 Jul 2026 09:45:22 +0100</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **Sparkle auto-updates.** Flanders now checks for updates daily and via
+  Flanders ▸ Check for Updates…. Updates are EdDSA-signed and served from the
+  public `ijasonwhite/flanders-updates` repo (appcast + notarized zips only —
+  no source). `scripts/release.sh` signs, uploads and publishes the appcast
+  entry automatically after notarization.
+- **Licensing scaffold (dark).** Offline-verifiable Ed25519 licence keys
+  (Stripe Checkout webhook → signed key by email → paste into Settings ▸
+  Licence, verified with CryptoKit, stored in the Keychain). Nothing is gated
+  yet — plumbing only, ahead of a pricing decision. Server side is vanilla
+  PHP in `licensing/`.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.0/Flanders-0.17.0.zip" sparkle:edSignature="vszVRTa0Q3fvwOYykDOXBPurU2TK8DKNFBEceb6gCXsX0kz8c58PlKVQIH3Y4pN5096L+3bYAg/TlVtoLHfACA==" length="36973800" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
