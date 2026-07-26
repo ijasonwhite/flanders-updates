@@ -5,6 +5,22 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.1</title>
+      <pubDate>Sun, 26 Jul 2026 09:50:05 +0100</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **First-launch licence agreement.** Flanders now requires acceptance of an
+  End User Licence Agreement before first use (England &amp; Wales law): use at
+  your own discretion, software provided as-is and may be withdrawn without
+  notice, intended for non-production environments, and users are responsible
+  for their own independent, tested backups. Acceptance is version-stamped, so
+  materially changed terms are shown again.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.1/Flanders-0.17.1.zip" sparkle:edSignature="Ji+gcXGP3Q2EDF+c/WY5QFphCMv7fEK7JhE2pDFnxrF4piOg/fnqVxpqJzgzS83gJyU6hxBDAmNXdbtx9AEBCw==" length="37003779" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.0</title>
       <pubDate>Sun, 26 Jul 2026 09:45:22 +0100</pubDate>
       <sparkle:version>31</sparkle:version>
