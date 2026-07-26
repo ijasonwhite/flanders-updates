@@ -5,6 +5,26 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.2</title>
+      <pubDate>Sun, 26 Jul 2026 20:32:08 +0100</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.17.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **Drag &amp; drop backup import.** Drop a `.sql` or `.sql.gz` dump from Finder
+  onto a database's *Backups* folder in the sidebar: Flanders copies it into
+  its managed backups (the original stays put), scans it for table/row counts
+  and gzip integrity, and it's immediately available to Restore like any
+  other backup. Imported records are marked with the source filename.
+
+### Fixed
+- Backup verification no longer flags imported third-party dumps for missing
+  `DROP TABLE` statements (that check now applies only to Flanders-authored
+  dumps).</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.2/Flanders-0.17.2.zip" sparkle:edSignature="fsli0iAEabyGj+IfU62m4t/w6ciabVWRLYPw8hidLisetJ0W3eYCTeLg1lqBxfOS60mbYyYZkWoUAGaHqBTuCA==" length="37030227" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.1</title>
       <pubDate>Sun, 26 Jul 2026 09:50:05 +0100</pubDate>
       <sparkle:version>32</sparkle:version>
