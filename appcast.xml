@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.3</title>
+      <pubDate>Sun, 26 Jul 2026 22:43:14 +0100</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.17.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Changed
+- Licence agreement and app copyright corrected to name Whitewater Training
+  Limited as the author (the agreement is shown once more on update).</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.3/Flanders-0.17.3.zip" sparkle:edSignature="xZr1L2IUEoUjuK940wW3h84FHjApRjDBwpRyeHFc6EerpszugdBryiIuiXTyyqhML04rzWg2LPr4kOzr5/0VCA==" length="37030230" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.2</title>
       <pubDate>Sun, 26 Jul 2026 20:32:08 +0100</pubDate>
       <sparkle:version>33</sparkle:version>
