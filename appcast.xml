@@ -5,6 +5,22 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.10</title>
+      <pubDate>Mon, 27 Jul 2026 13:37:59 +0100</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.17.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Fixed
+- **Restore is now reliable for standard mysqldump files.** Two issues are
+  resolved: statements preceded by a comment line (as mysqldump writes them) are
+  no longer skipped during restore, and every table the backup defines is now
+  cleared before restoring regardless of the dump's contents. Restoring a
+  WordPress or other mysqldump backup now replaces the data cleanly instead of
+  reporting "table already exists" and duplicate-key errors.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.10/Flanders-0.17.10.zip" sparkle:edSignature="EscoVgk67/jxSlmkehNVrk7gN/Rq9MfYD0PboMyvQ8NFBaAODRGdlFDiNoxiWCVlhuFrpQ5VuIHxMGNvfAHaAw==" length="37224906" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.9</title>
       <pubDate>Mon, 27 Jul 2026 13:30:25 +0100</pubDate>
       <sparkle:version>40</sparkle:version>
