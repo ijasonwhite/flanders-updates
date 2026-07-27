@@ -5,6 +5,22 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.18.0</title>
+      <pubDate>Mon, 27 Jul 2026 14:15:25 +0100</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **Import backups straight from Navicat.** The Backup view has a new
+  “From Navicat” button that finds the Navicat backups on your Mac for the
+  current database and imports them into Flanders in one click — a simple way
+  to bring your history across when you switch. Navicat's `.nb3` backups are
+  reconstructed faithfully (every table and row, binary data included), and you
+  can also browse to a `.nb3` file yourself.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.18.0/Flanders-0.18.0.zip" sparkle:edSignature="6t4ZCC+chdO/V0feGhapIM00wonFz4nlqQYbvuTzSiQ5v9xRNi2xC4f+78DDKFl1yvg3GBpVwrar5tfElShWAA==" length="37359911" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.13</title>
       <pubDate>Mon, 27 Jul 2026 13:58:35 +0100</pubDate>
       <sparkle:version>44</sparkle:version>
