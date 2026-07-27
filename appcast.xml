@@ -5,6 +5,17 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.12</title>
+      <pubDate>Mon, 27 Jul 2026 13:50:51 +0100</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.17.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Fixed
+- The About window's GitHub button now opens the public releases page.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.12/Flanders-0.17.12.zip" sparkle:edSignature="jnmPZfyR9s/LXagxbZvolvn5vxY5qcURWa1yDwSC9AsLZsMwC3sdWmNlIu8aPXnqYWC0TgdQQBDllKsnMXZzDg==" length="37246535" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.11</title>
       <pubDate>Mon, 27 Jul 2026 13:47:24 +0100</pubDate>
       <sparkle:version>42</sparkle:version>
