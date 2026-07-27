@@ -5,6 +5,23 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.5</title>
+      <pubDate>Mon, 27 Jul 2026 12:18:51 +0100</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.17.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Improved
+- **Importing backups now handles dumps of any character set.** Dropping a
+  `.sql` or `.sql.gz` file made by mysqldump (or another tool) no longer fails
+  when the dump contains non-UTF-8 data — a very common case. The file is
+  imported and remains fully restorable.
+- **Drop a backup anywhere in the Backup view to import it**, not only onto the
+  Backups folder in the sidebar. The panel highlights as you drag a file over
+  it.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.5/Flanders-0.17.5.zip" sparkle:edSignature="ejGK9jppEET4Nqbl7yBA8bKpK+vjuQrChF3YDDIAkaqsK0cJcUNNQO4NQm2yn9DONPyuYXi/6fifD+Wg26IgDQ==" length="37065033" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.4</title>
       <pubDate>Sun, 26 Jul 2026 23:37:08 +0100</pubDate>
       <sparkle:version>35</sparkle:version>
