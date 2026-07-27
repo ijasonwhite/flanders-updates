@@ -5,6 +5,20 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.18.1</title>
+      <pubDate>Mon, 27 Jul 2026 14:27:01 +0100</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.18.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **Search for Navicat backups anywhere.** The Navicat import window now has a
+  Search button that looks in the obvious places (Navicat's folder plus
+  Documents, Desktop and Downloads), with a “Whole drive” option to search your
+  home folder and mounted volumes too — handy if your backups have been moved.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.18.1/Flanders-0.18.1.zip" sparkle:edSignature="FD+6Py9hDROWIMsGuA+1ttgp/MCocD5RFmmR0swHB3T/WqMeoMkcaVa4Thcx/k6PbievmEJzOldLamgiEJoxDg==" length="37388592" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.18.0</title>
       <pubDate>Mon, 27 Jul 2026 14:15:25 +0100</pubDate>
       <sparkle:version>45</sparkle:version>
