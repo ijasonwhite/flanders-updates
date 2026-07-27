@@ -5,6 +5,24 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.18.3</title>
+      <pubDate>Mon, 27 Jul 2026 14:56:35 +0100</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.18.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Improved
+- **Binary columns are now readable.** BINARY, VARBINARY, BLOB, BIT and spatial
+  columns show a tidy placeholder such as `[varbinary]` instead of raw bytes, so
+  a row of hashes or images no longer fills the grid with noise. The underlying
+  value is untouched, so editing and primary-key matching keep working.
+- **A finessed Navicat import panel.** The From Navicat window has been rebuilt
+  around a live status card, a fixed footer whose Close button is always
+  available, and a Stop button that halts a whole-drive search the instant you
+  press it. Results stream in as they are found, with a running count and timer.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.18.3/Flanders-0.18.3.zip" sparkle:edSignature="6laHJYMAbF3hrGp7YGq1XtsO4VqIXWr/CWdGMNVwDcTf1IRudbxjnm+sEz+V2p51A7WlRA1boHFubg4ng/HtBQ==" length="37458705" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.18.2</title>
       <pubDate>Mon, 27 Jul 2026 14:41:51 +0100</pubDate>
       <sparkle:version>47</sparkle:version>
