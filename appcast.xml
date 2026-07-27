@@ -5,6 +5,22 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.8</title>
+      <pubDate>Mon, 27 Jul 2026 13:22:55 +0100</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.17.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Fixed
+- **Restore now always replaces, so it can't duplicate your data.** Backups made
+  by other tools (for example a mysqldump without drop-table statements) used to
+  be layered on top of the existing rows during a restore, duplicating
+  everything. Flanders now clears each table the backup defines before restoring
+  it, with foreign-key checks handled automatically — the restore replaces the
+  data cleanly, exactly as the confirmation describes.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.8/Flanders-0.17.8.zip" sparkle:edSignature="VqSpSigpmmqRV7qJMHXG5lHEAcKPExK47zZnW+dtFKYZJNas11sa4863sPyeYBzJCZK/Vm3piLRVy6A3CuigAg==" length="37205166" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.7</title>
       <pubDate>Mon, 27 Jul 2026 12:47:18 +0100</pubDate>
       <sparkle:version>38</sparkle:version>
