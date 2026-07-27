@@ -5,6 +5,22 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.13</title>
+      <pubDate>Mon, 27 Jul 2026 13:58:35 +0100</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.17.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Fixed
+- **Restoring backups with binary data no longer corrupts it.** Dumps that
+  contain binary columns (for example WordPress/Wordfence tables keyed on a
+  binary hash) are now restored byte-for-byte via the MySQL client when
+  available, so values like binary primary keys come back exactly as they were.
+  Plain text backups continue to use the fast built-in restore with full
+  progress. Restore is also disabled until you're connected to a server.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.13/Flanders-0.17.13.zip" sparkle:edSignature="IAnNjFWqQMNlmMayiVdvKmEzMf7FCY3WSVjBYDB2OCMp66CnVdFP5Tl+jqwLl8pYRiLMDOqYBjSMe97Ase0gDQ==" length="37262558" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.12</title>
       <pubDate>Mon, 27 Jul 2026 13:50:51 +0100</pubDate>
       <sparkle:version>43</sparkle:version>
