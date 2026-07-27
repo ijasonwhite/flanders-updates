@@ -5,6 +5,24 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.7</title>
+      <pubDate>Mon, 27 Jul 2026 12:47:18 +0100</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.17.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **The backup details pane now appears in the sidebar's Backups list too**, not
+  only the Backup tool — select any backup to see its full contents wherever you
+  are.
+
+### Notes
+- Flanders is free to use throughout the beta (every 0.x release). A licence
+  will only be needed from version 1.0 onward; nothing you're using today will
+  stop working.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.7/Flanders-0.17.7.zip" sparkle:edSignature="vaKJaBqTh/4GwbUIvhpi0YtwmLllnoVEjEMShqhookRslmsw08F13aIONiDlAyH2U4fOKx33ETq5HvI1OG+EDQ==" length="37192787" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.6</title>
       <pubDate>Mon, 27 Jul 2026 12:30:21 +0100</pubDate>
       <sparkle:version>37</sparkle:version>
