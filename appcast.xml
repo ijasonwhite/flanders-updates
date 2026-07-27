@@ -5,6 +5,22 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.6</title>
+      <pubDate>Mon, 27 Jul 2026 12:30:21 +0100</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.17.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **Backup details pane.** Select any backup to open a details panel on the
+  right showing everything about it: database, connection, when it was made,
+  full or structure-only, size on disk and uncompressed, table and row counts,
+  character set and originating server version where available, the list of
+  tables inside the file, and the dump's header. Reveal and Verify are one
+  click away.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.6/Flanders-0.17.6.zip" sparkle:edSignature="mQJZ8HtLCOzTNQNwrjP0YCoBGRjHJkvhQ5Rgk5Ltfdy6z/uDUnLw48i2EIOxRxsIadTRZTj+gQpjC9RjiXaxDQ==" length="37171212" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.5</title>
       <pubDate>Mon, 27 Jul 2026 12:18:51 +0100</pubDate>
       <sparkle:version>36</sparkle:version>
