@@ -5,6 +5,19 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.17.9</title>
+      <pubDate>Mon, 27 Jul 2026 13:30:25 +0100</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.17.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Improved
+- **The backup log is now selectable, with Copy and Clear buttons.** Select any
+  part of the restore/backup log to copy it, or use the Copy button to grab the
+  whole log at once — handy for keeping a record or sharing what happened.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.17.9/Flanders-0.17.9.zip" sparkle:edSignature="aqQJXTtuMwbVdk0myEfpBjbVq3h73c2h70LEUyaxTMw8oVCZR3NfWyogUkfztMgjWGJ6p1p5QIQKFyAoxyqGDA==" length="37229285" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.17.8</title>
       <pubDate>Mon, 27 Jul 2026 13:22:55 +0100</pubDate>
       <sparkle:version>39</sparkle:version>
