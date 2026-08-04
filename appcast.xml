@@ -5,6 +5,21 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Flanders 0.18.4</title>
+      <pubDate>Tue, 04 Aug 2026 21:43:02 +0100</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.18.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+### Added
+- **Filter the sidebar with ⌘F.** Press ⌘F while the connection tree is active
+  to reveal a filter box under the sidebar header. Type to narrow the list of
+  databases — connections always stay visible — and press Esc to clear the
+  filter, then again to dismiss it. ⌘F still works as normal inside the SQL
+  editor and other text fields.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/flanders-updates/releases/download/v0.18.4/Flanders-0.18.4.zip" sparkle:edSignature="CUrQsI4TM9oEZ7Y9RpmhyZc4mYIyIdiuZ/4PQm9K7CAfIQvfwDIB/nfIRgdtlBluorR/mG2JES6tOQeBSTHjBg==" length="37500519" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Flanders 0.18.3</title>
       <pubDate>Mon, 27 Jul 2026 14:56:35 +0100</pubDate>
       <sparkle:version>48</sparkle:version>
